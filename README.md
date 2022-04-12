@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jvls1
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning web BackEnd with NodeJS.
+- 🌱 I’m learning NodeJS and ReactJS.
+- 💻 I’m currently working with Java as fullstack Developer.
 - 📫 How to reach me - joaovlopes000@gmail.com
 
 <!---
