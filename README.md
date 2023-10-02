@@ -1,7 +1,5 @@
-- 👋 Hi, I’m João Vitor
-- 👀 I have experience on backend development with Java and Spring.
-- 📚 I'm studying Spring Cloud and Microservices Architecture.
-- 💻 I’m currently working with Java as fullstack Developer in SmartBR.
-- 📫 How to reach me - joaovlopes000@gmail.com
+## `👨‍💻` ABOUT ME
+Hello, I'm João Vitor, I have 1 year and 7 months of experience with backend development using technologies such as Java and Spring, I also have experience with PostgreSQL and Oracle databases (not as a DBA), in the messaging area I am studying Kafka and I also have knowledge of Docker and AWS services
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jvls1"></img>
+## `👨‍💻` DEVELOPMENT
+[![](https://skillicons.dev/icons?i=java,spring,postgresql,kafka,aws)](https://skillicons.dev)
