@@ -6,5 +6,5 @@ I currently have 2 years of professional experience with development, my main te
 I also have knowledge of Docker and Kafka, which were technologies that I needed to use during my journey
 Furthermore, I have been delving deeper into the cloud area, having taken courses and explored the AWS platform
 
-## `👨‍💻` DEVELOPMENT
+## `🤖` TECHNOLOGIES
 [![](https://skillicons.dev/icons?i=java,spring,postgresql,kafka,aws)](https://skillicons.dev)
