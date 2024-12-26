@@ -1,9 +1,22 @@
-Hi, my name is João Vitor, I'm 20 years old, I'm studying software engineering, and I've always had contact with technology, when I was 16 I started studying programming and identified with the area, since then I've been studying and updating on new technologies and how I can improve what I've done previously, discovering new design patterns and systems architecture
+#### Hi there! 👋 I'm João Vitor
+I'm a 21 years old Software Engineering with a passion for technology and innovation. My journey in programming began at 16, and since then, I've been continuously honing my skills, exploring new technologies, and improving past projects by adopting modern design patterns and robust system architectures.
 
-I currently have 2 years of professional experience with development, my main technologies being Java and Spring Framework, in addition I also know about databases, having worked with PostgreSQL and Oracle (not as a DBA)
-I also have knowledge of Docker and Kafka, which were technologies that I needed to use during my journey
-Furthermore, I have been delving deeper into the cloud area, having taken courses and explored the AWS platform
+#### 💻 Professional Experience
+I have 3 years of professional experience in software development, with a strong focus on Java and the Spring Framework. Alongside backend development, I have a solid foundation in databases, having worked extensively with PostgreSQL and Oracle.
 
+#### 🚀 Cloud Enthusiast
+Lately, I've been diving deeper into cloud technologies, particularly AWS, where I’ve gained hands-on experience with:
+AWS Lambda
+- DynamoDB
+- CloudFormation
+- AWS SAM
+- CloudWatch
+
+#### 🛠️ DevOps & Messaging
+My experience also includes Docker for containerization and Apache Kafka for messaging and event-driven architectures.
+
+#### 🌟 About Me
+I'm always eager to learn, stay up-to-date with new trends, and explore innovative ways to build scalable, efficient systems. Let's connect and collaborate on exciting projects!
 ____
 
-[![](https://skillicons.dev/icons?i=java,spring,postgresql,kafka,aws,go,javascript,typescript,nodejs)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,spring,postgresql,docker,aws,dynamodb,typescript,nodejs,git)](https://skillicons.dev)
