@@ -6,7 +6,7 @@ I have 3 years of professional experience in software development, with a strong
 
 #### 🚀 Cloud Enthusiast
 Lately, I've been diving deeper into cloud technologies, particularly AWS, where I’ve gained hands-on experience with:
-AWS Lambda
+- AWS Lambda
 - DynamoDB
 - CloudFormation
 - AWS SAM
